@@ -21,4 +21,4 @@ module StandardTags
     breadcrumbs.join(separator)
   end
 
-end    
+end
